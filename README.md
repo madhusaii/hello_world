@@ -1,2 +1,7 @@
 # hello_world
-i am interested in github
+
+hello john
+
+i am working on jenkins. i need to copy code from github.
+so that i can deploy the code easily
+
